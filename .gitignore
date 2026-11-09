@@ -1,0 +1,14 @@
+# build output (tools/build_pack.py, extension/build.sh); release files go on GitHub Releases
+bedrock-pack/
+extension/build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# editors / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store

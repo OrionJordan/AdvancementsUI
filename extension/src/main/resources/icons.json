@@ -1,0 +1,6 @@
+{
+  "_comment": "Overrides for advancement icons and tab backgrounds shown to Bedrock players. Keys are Java item ids or item_model ids (e.g. \"mypack:my_item\") and Java background textures (e.g. \"minecraft:block/stone\"); values are Bedrock texture paths without .png. 'fallback' is used when nothing matches.",
+  "icons": {},
+  "backgrounds": {},
+  "fallback": "textures/blocks/barrier"
+}

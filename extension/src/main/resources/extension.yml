@@ -1,0 +1,6 @@
+id: advancementsui
+name: AdvancementsUI
+main: dev.advancementsui.advgui.AdvGuiExtension
+api: 2.9.0
+version: 1.0.0
+authors: [OrionJordan]
